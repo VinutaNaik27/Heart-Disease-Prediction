@@ -45,24 +45,25 @@ Model Evaluation
 Prediction
 ```
 ---
-🎓 Program Context
+## 🎓 Program Context
 
-This project was developed as part of the Job Bridge Program by Unlox.
+This project was developed as part of the **Job Bridge Program by Unlox**.
 
-The program provided hands-on experience with practical Data Science and Machine Learning tasks using real-world datasets.
+The program provided hands-on experience with practical **Data Science and Machine Learning** tasks using real-world datasets.
 
 Through this project, I gained practical experience in:
 
-Data acquisition
-Data cleaning
-Exploratory Data Analysis (EDA)
-Data visualization
-Data preprocessing
-Machine Learning
-Model evaluation
-Python and Jupyter Notebook
----
+- Data Acquisition
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Data Preprocessing
+- Machine Learning
+- Model Evaluation
+- Python and Jupyter Notebook
 
+
+---
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
